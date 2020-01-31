@@ -70,7 +70,7 @@ public class BloodLevel {
 		}
 
 		else
-			return "Your free copper is at a good level and within the recommended range of 5-15 ug/dl.";
+			return "------------------\nYour free copper is at a good level and within the recommended range of 5-15 ug/dl.";
 	}
 
 }
